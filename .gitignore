@@ -1,0 +1,18 @@
+### Compiled and Backup Files ###
+*.class
+*~
+hs_err_pid*
+
+### Don't check in our compiled directories ###
+out
+ui/dist
+ui/node_modules
+target/
+
+### Intellij User-Specific Settings ###
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/modules/root.iml
+.idea/modules/root-build.iml
+projectFilesBackup*/
+
